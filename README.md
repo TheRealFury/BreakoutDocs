@@ -1,0 +1,14 @@
+# AtariBreakoutReloaded 
+- To start this game, press 'space'. 
+- You can control the paddle with your mouse, but if you want to control through the arrow keys, press 'shift'. 
+- The three hearts at the bottom right of the screen will tell how many lives you have. 
+- You have to launch the ball to destroy all the bricks to win. 
+- If the ball falls down, you will lose a life. 
+- If you lose all your lives, you will lose the game. 
+- When you win, two things will happen. A code will appear on the screen below the 'You Win' sign. Also, a Code.org AppLab project will open where you have to do the following things :-
+- You have to enter your username in the first text input.
+- Your code can be split into 2 parts :-
+- If your code is 'B145', then the 'Letter' part of your code is 'B', but the 'number' part is '145'.
+- In the second one, you will have a dropdown where you select the 'Letter' part of your code.
+- In the third one, you will have to enter the 'number' part of your code.
+- Press the 'Continue' button.  - After this, your score will be recorded on a database. The top 5 people will be declared on the Community.
